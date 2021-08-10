@@ -244,7 +244,7 @@ export const countryCodeList: IFlagEntry[] = [
   },
   { countryName: "Kuwait", alpha2: "KW", alpha3: "KWT", numeric: "414" },
   {
-    countryName: "Cayman Islands",
+    countryName: "Cayman Islands",https://en.wikipedia.org/wiki/Bouvet_Island
     alpha2: "KY",
     alpha3: "CYM",
     numeric: "136",
@@ -516,5 +516,4 @@ export const countryCodeList: IFlagEntry[] = [
   { countryName: "Zambia", alpha2: "ZM", alpha3: "ZMB", numeric: "894" },
   { countryName: "Zimbabwe", alpha2: "ZW", alpha3: "ZWE", numeric: "716" },
   { countryName: "Afghanistan", alpha2: "AF", alpha3: "AFG", numeric: "004" },
-  { countryName: "Bouvet Island", alpha2: "BV", alpha3: "BVT", numeric: "074" },
 ];
